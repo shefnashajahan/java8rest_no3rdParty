@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.glassfish:verifier:3.2-b06" type="repository">
+    <properties maven-id="org.glassfish:verifier:3.2-b06" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/verifier/3.2-b06/verifier-3.2-b06.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
